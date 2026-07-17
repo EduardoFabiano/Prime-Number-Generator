@@ -1,1 +1,1 @@
-Mathematical Model.
+Mathematical Model
